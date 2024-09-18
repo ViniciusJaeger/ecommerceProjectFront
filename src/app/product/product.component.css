@@ -1,0 +1,22 @@
+.product-container {
+    width: 100%;
+    height: 100%;
+}
+
+.product-items {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    margin: 50px;
+}
+
+.card-title {
+    height: 100px;
+    background-color: #1E90FF;
+}
+
+.container-input-product {
+    width: 250px; 
+}
+
+
